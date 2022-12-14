@@ -29,7 +29,7 @@
         <a class="navbar-brand" href="#"></a>
         <a class="navbar-brand" href="disponibilizar.php">Disponibilizar </a>
         <a class="navbar-brand" href="#"></a>
-        <a class="navbar-brand" href="trocar.php">Troca de Figurinhas</a>
+        <a class="navbar-brand" href="trocar.php">Trocar</a>
         <a class="navbar-brand" href="#"></a>
         <a class="navbar-brand" href="ganhar.php">Ganhar Figurinhas</a>
         <a class="navbar-brand" href="#"></a>

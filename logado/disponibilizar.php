@@ -68,7 +68,7 @@
                                 echo '</tr>';
                             }
                         }else{
-                            echo "<p>Voce não possui nenhuma figurinha disponivel para troca!</p>";
+                            echo "<p>Voce não possui nenhum livro disponivel para troca!</p>";
                         }
                     ?>
                 </table><br/>
